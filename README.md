@@ -1,4 +1,4 @@
-# International Congress on Ultrasound - Supplementary Files
+# International Congress on Ultrasonics - Supplementary Files
 
 CPU implementations passive cavitation mapping for focused ultrasound induced cavitation on magnetic nanoparticles
 using Delay and Sum (DAS) beamformer, Delay Multiply and Sum (DMAS) beamformer and robust capon beamformer (RCB).
